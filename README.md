@@ -42,7 +42,13 @@ This repository contains a Python-based sentiment analysis project. It includes 
 - python app.py
 
 2. Test the API using postman:
-IMAGE:
+
+![image](https://github.com/user-attachments/assets/20ae2529-22fb-4f7e-a288-3d6b1dfef1a4)
+
+![image](https://github.com/user-attachments/assets/4079ad75-1040-4700-bca1-1fc5e39d08bb)
+
+![image](https://github.com/user-attachments/assets/33b5eec2-470d-45ec-9813-21f4d8d473e5)
+
 
 ## Implementation & Usage (New data and with training model):
 
